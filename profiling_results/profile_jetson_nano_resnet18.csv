@@ -1,0 +1,5 @@
+device,model_name,cut_name,cut_index,batch_size,client_forward_ms,client_backward_ms,server_forward_ms,server_backward_ms,activation_shape,activation_size_bytes,activation_elements,client_peak_memory_mb,client_model_params,server_model_params,client_avg_power_mw,client_max_power_mw,client_energy_per_round_mj
+jetson_nano,resnet18,C1_after_stem,1,4,1.2338529995759018,1.8688655036385171,40.51331200025743,114.07840649917489,"(4, 64, 32, 32)",1048576,262144,154.703125,1856,11172106,,,
+jetson_nano,resnet18,C2_after_layer1,2,4,7.670621998840943,14.050699006475043,34.32529850397259,103.2871770003112,"(4, 64, 32, 32)",1048576,262144,162.70703125,149824,11024138,,,
+jetson_nano,resnet18,C3_after_layer2,3,4,15.534400496107992,28.097986491047777,26.55204350594431,86.45874149806332,"(4, 128, 16, 16)",524288,131072,166.2119140625,675392,10498570,,,
+jetson_nano,resnet18,C4_after_layer3,4,4,24.51840949652251,52.250972992624156,17.602150997845456,62.61414950131439,"(4, 256, 8, 8)",262144,65536,167.9716796875,2775104,8398858,,,
