@@ -1,0 +1,4 @@
+data/
+legacy_v0/data/
+__pycache__/
+*.pyc
