@@ -1,0 +1,30 @@
+
+==============NVSMI LOG==============
+
+Timestamp                                 : Sat Jul 11 11:25:47 2026
+Driver Version                            : 535.309.01
+CUDA Version                              : 12.2
+
+Attached GPUs                             : 1
+GPU 00000000:01:00.0
+    GPU Power Readings
+        Power Draw                        : 10.08 W
+        Current Power Limit               : 115.00 W
+        Requested Power Limit             : 115.00 W
+        Default Power Limit               : 115.00 W
+        Min Power Limit                   : 5.00 W
+        Max Power Limit                   : 140.00 W
+    Power Samples
+        Duration                          : Not Found
+        Number of Samples                 : Not Found
+        Max                               : Not Found
+        Min                               : Not Found
+        Avg                               : Not Found
+    Module Power Readings
+        Power Draw                        : N/A
+        Current Power Limit               : N/A
+        Requested Power Limit             : N/A
+        Default Power Limit               : N/A
+        Min Power Limit                   : N/A
+        Max Power Limit                   : N/A
+
